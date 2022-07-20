@@ -13,7 +13,14 @@ Ques paper -:
 ![image](https://user-images.githubusercontent.com/59536110/179948760-b03c6516-c218-4d1b-983b-f2bffd6449e7.png)
 
 
+Ques -: 
 
 ![image](https://user-images.githubusercontent.com/59536110/179947932-8e4b41be-308a-41d5-a86a-7e73357ec545.png)
 ![image](https://user-images.githubusercontent.com/59536110/179947968-019f94d2-a211-43ff-9e00-e39e780ee53f.png)
 ![image](https://user-images.githubusercontent.com/59536110/179947988-617be107-750d-4a5f-ab86-a564e10639a7.png)
+
+contents-:
+
+![image](https://user-images.githubusercontent.com/59536110/179953297-3621b6c6-308f-4652-b18e-33352d3f0e0c.png)
+![image](https://user-images.githubusercontent.com/59536110/179953340-c8961e85-c26d-4725-b6fe-7923b80ecc1b.png)
+![image](https://user-images.githubusercontent.com/59536110/179953384-b6bc2865-0e6e-425a-aed0-2210d5cd48db.png)
