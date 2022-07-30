@@ -24,3 +24,23 @@ contents-:
 ![image](https://user-images.githubusercontent.com/59536110/179953297-3621b6c6-308f-4652-b18e-33352d3f0e0c.png)
 ![image](https://user-images.githubusercontent.com/59536110/179953340-c8961e85-c26d-4725-b6fe-7923b80ecc1b.png)
 ![image](https://user-images.githubusercontent.com/59536110/179953384-b6bc2865-0e6e-425a-aed0-2210d5cd48db.png)
+
+
+Unit -1
+
+![image](https://user-images.githubusercontent.com/59536110/181935287-51b45c80-2cca-4203-93d9-bd8de9784b2d.png)
+![image](https://user-images.githubusercontent.com/59536110/181935329-e6880fef-b533-4353-bc0b-38781668dc44.png)
+![image](https://user-images.githubusercontent.com/59536110/181935349-c81ed154-115e-445f-a254-a916003a8895.png)
+![image](https://user-images.githubusercontent.com/59536110/181935360-5e24fa64-0784-4944-9778-eac034b184bf.png)
+![image](https://user-images.githubusercontent.com/59536110/181935375-15637405-4ec0-49ab-8954-792c81ff37d0.png)
+![image](https://user-images.githubusercontent.com/59536110/181935389-926ac050-bc2e-49ee-920f-e09ba98c6ba0.png)
+![image](https://user-images.githubusercontent.com/59536110/181935409-90147003-a3d3-46b0-95a4-b67b51f44fc6.png)
+![image](https://user-images.githubusercontent.com/59536110/181935430-f4de29ae-1b3c-4a54-a377-1cbe1f1398c4.png)
+![image](https://user-images.githubusercontent.com/59536110/181935470-c65bfce4-33d5-41ad-8768-c6525deb7755.png)
+![image](https://user-images.githubusercontent.com/59536110/181935440-c9e67e37-e408-4673-929d-a9ee2bcfd399.png)
+![image](https://user-images.githubusercontent.com/59536110/181935452-f01e145b-3501-4970-8cdb-924e70a9e69c.png)
+![image](https://user-images.githubusercontent.com/59536110/181935521-49c5b412-ee63-40b2-a7e4-f29084b7dfa7.png)
+![image](https://user-images.githubusercontent.com/59536110/181935520-1350f97e-90a6-457a-94f7-f36ada8437e0.png)
+![image](https://user-images.githubusercontent.com/59536110/181935543-0c093202-4540-4d3c-af35-4fd0d90ed0a1.png)
+![image](https://user-images.githubusercontent.com/59536110/181935565-f5ac703c-4015-40ad-a708-f1c40de9d7be.png)
+![Uploading image.png…]()
