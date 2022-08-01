@@ -21,6 +21,10 @@ Syllabus -:
 ![image](https://user-images.githubusercontent.com/59536110/179949626-aa3abeb3-52ce-48a3-870a-eadf0b4f3e70.png)
 ![image](https://user-images.githubusercontent.com/59536110/179949711-7385878c-7b49-4c39-98d9-b57188c36bc2.png)
 
+Sessional Question papers -
+
+![IMG20220801092639](https://user-images.githubusercontent.com/93399136/182069741-8c119a45-8014-47ad-bd7b-0f91008d15df.jpg)
+
 Ques paper -:
 
 ![image](https://user-images.githubusercontent.com/59536110/179948542-78a97212-e3c8-4930-a39c-52eaa49ad7ee.png)
