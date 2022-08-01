@@ -1,5 +1,18 @@
 # Embedded-system
-
+Imp Ques-: 
+-Embedded sys,appl,adv,disad.
+-Design life cycle / parameters.
+-Hardware/soft partioning / core desiguman /n.
+- RTOS ( ADV / DISA/ APPLI/ LIMI )
+- FSMD 
+- MICRONTROLLER / MICROPROCESSOR 
+- RISC / CISC
+- Von - neuman / harvard archhi
+- program to add two no ( storing in register ) / GCD / MUltiplication .
+- program to write interfacing in 8 LED MC 8051
+- Program to write 7 segment display MC 8051
+- Message que / mailboxes .
+- 
 Syllabus -:
 
 ![image](https://user-images.githubusercontent.com/59536110/179949626-aa3abeb3-52ce-48a3-870a-eadf0b4f3e70.png)
