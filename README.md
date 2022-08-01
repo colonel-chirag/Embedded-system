@@ -5,7 +5,7 @@
 Imp Ques-: 
 -Embedded sys,appl,adv,disad.
 -Design life cycle / parameters.
--Hardware/soft partioning / core desiguman /n.
+-Hardware/soft partioning / core design /n.
 - RTOS ( ADV / DISA/ APPLI/ LIMI )
 - FSMD 
 - MICRONTROLLER / MICROPROCESSOR 
