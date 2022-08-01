@@ -1,4 +1,7 @@
 # Embedded-system
+
+%% Ankit beta is strictly prohibited to access this very repository %%%
+
 Imp Ques-: 
 -Embedded sys,appl,adv,disad.
 -Design life cycle / parameters.
@@ -56,4 +59,4 @@ Unit -1
 ![image](https://user-images.githubusercontent.com/59536110/181935520-1350f97e-90a6-457a-94f7-f36ada8437e0.png)
 ![image](https://user-images.githubusercontent.com/59536110/181935543-0c093202-4540-4d3c-af35-4fd0d90ed0a1.png)
 ![image](https://user-images.githubusercontent.com/59536110/181935565-f5ac703c-4015-40ad-a708-f1c40de9d7be.png)
-![Uploading image.png…]()
+
