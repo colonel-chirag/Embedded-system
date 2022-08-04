@@ -15,17 +15,22 @@ Imp Ques-:
 - program to write interfacing in 8 LED MC 8051
 - Program to write 7 segment display MC 8051
 - Message que / mailboxes .
-- 
+
 Syllabus -:
 
 ![image](https://user-images.githubusercontent.com/59536110/179949626-aa3abeb3-52ce-48a3-870a-eadf0b4f3e70.png)
 ![image](https://user-images.githubusercontent.com/59536110/179949711-7385878c-7b49-4c39-98d9-b57188c36bc2.png)
 
+2022 Semester Exam Question Paper-
+![IMG20220804132858](https://user-images.githubusercontent.com/93399136/182796415-36780219-173a-4226-bfd4-85a9f7ff9dc6.jpg)
+![IMG20220804132905](https://user-images.githubusercontent.com/93399136/182796428-59bfb303-1fb2-4094-ab13-278a700b4e9f.jpg)
+
+
 Sessional Question papers -
 
 ![IMG20220801092639](https://user-images.githubusercontent.com/93399136/182069741-8c119a45-8014-47ad-bd7b-0f91008d15df.jpg)
 
-Ques paper -:
+Previous year Ques paper -:
 
 ![image](https://user-images.githubusercontent.com/59536110/179948542-78a97212-e3c8-4930-a39c-52eaa49ad7ee.png)
 ![image](https://user-images.githubusercontent.com/59536110/179948599-fe04f6fe-9db1-4d77-9bed-c0bc92d6cee9.png)
