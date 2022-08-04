@@ -36,7 +36,10 @@ Previous year Ques paper -:
 ![image](https://user-images.githubusercontent.com/59536110/179948599-fe04f6fe-9db1-4d77-9bed-c0bc92d6cee9.png)
 ![image](https://user-images.githubusercontent.com/59536110/179948701-bbc83835-b4d1-4485-9b0c-5574235b554a.png)
 ![image](https://user-images.githubusercontent.com/59536110/179948760-b03c6516-c218-4d1b-983b-f2bffd6449e7.png)
+![2157919c-95f5-42b0-95d7-0ad0d1fd179d](https://user-images.githubusercontent.com/59536110/182663153-4065e836-4417-44a0-a3be-6183add903f6.jpg)
 
+
+![07511a53-e814-45df-a521-1a262b175165](https://user-images.githubusercontent.com/59536110/182663122-12bef71f-90eb-4342-8968-d145ec011c3f.jpg)
 
 Ques -: 
 
@@ -69,3 +72,4 @@ Unit -1
 ![image](https://user-images.githubusercontent.com/59536110/181935543-0c093202-4540-4d3c-af35-4fd0d90ed0a1.png)
 ![image](https://user-images.githubusercontent.com/59536110/181935565-f5ac703c-4015-40ad-a708-f1c40de9d7be.png)
 
+Programms -:
